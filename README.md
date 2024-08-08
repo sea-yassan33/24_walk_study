@@ -12,9 +12,9 @@
 - [歩く　国土交通省](https://www.mlit.go.jp/common/000022977.pdf)
 
 ### 2.日本の歩行データ
-[歩数の平均値及び標準偏差 - 年齢階級別，人数，平均値，標準偏差 - 総数・男性・女性，20歳以上](https://www.e-stat.go.jp/stat-search/database?page=1&query=%E6%AD%A9%E6%95%B0&sort=open_date%20desc&layout=dataset&statdisp_id=0003224464&metadata=1&data=1)
-[歩数を増やすことの意識別、歩行数の平均値（性・年齢階級別](https://www.e-stat.go.jp/stat-search/database?page=1&query=%E6%AD%A9%E6%95%B0&sort=open_date%20desc&layout=dataset&statdisp_id=0003224684&metadata=1&data=1)
-[運動習慣の状況別，歩行数の分布（20歳以上，性・年齢階級別](https://www.e-stat.go.jp/dbview?sid=0003225420)
+- [歩数の平均値及び標準偏差 - 年齢階級別，人数，平均値，標準偏差 - 総数・男性・女性，20歳以上](https://www.e-stat.go.jp/stat-search/database?page=1&query=%E6%AD%A9%E6%95%B0&sort=open_date%20desc&layout=dataset&statdisp_id=0003224464&metadata=1&data=1)
+- [歩数を増やすことの意識別、歩行数の平均値（性・年齢階級別](https://www.e-stat.go.jp/stat-search/database?page=1&query=%E6%AD%A9%E6%95%B0&sort=open_date%20desc&layout=dataset&statdisp_id=0003224684&metadata=1&data=1)
+- [運動習慣の状況別，歩行数の分布（20歳以上，性・年齢階級別](https://www.e-stat.go.jp/dbview?sid=0003225420)
 
 ### 3.継続するために
 - [健康ウォーク継続のための支援システムに関する検討](https://www.jstage.jst.go.jp/article/ceispapers/ceis30/0/ceis30_61/_pdf)
